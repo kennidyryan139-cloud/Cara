@@ -1,2 +1,2 @@
 #primeiro projeto usando git e github
-editei o projeto 
+editei o projeto, README.md 
