@@ -1,0 +1,1 @@
+let nome = input("qual e o seu nome: ")

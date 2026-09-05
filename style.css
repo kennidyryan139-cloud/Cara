@@ -1,0 +1,81 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+ background-image: linear-gradient(to top,
+ #600000, #d20101);
+  height: 100vh;
+  background-attachment: fixed;
+  
+}
+h1 {
+ color: black;
+text-align: center;
+}
+.quiz {
+  display: none;
+  padding: 10px;
+  border-radius: 10px;
+  
+}
+.enum {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 20px;
+}
+.comecar {
+  background-color: #e1870656;
+  display: block;
+  width: 200px;
+  height: 80px;
+  border-radius: 20px;
+  margin: auto;
+  font-size: 25px;
+}
+.titulo {
+  color: #99a708;
+  display: block;
+}
+.titulo1 {
+  color: #99a708;
+  display: block;
+}
+img {
+  display: block;
+  margin: auto;
+  max-width: 400px;
+  border-radius: 10px;
+}
+#resultado {
+  font-size: 25px;
+  width: 100%;
+  height: 40px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  
+}
+button {
+  transition: 0.3s;
+}
+.resposta {
+  display: block;
+  margin: 20px;
+  width: 300px;
+  height: 50px;
+  border-radius: 20px;
+  text-align: left;
+  font-size: 30px;
+  transform: translate(-5px, -5px);
+}
+.proxima {
+  text-align: right;
+  margin: 10px;
+}
+.recarrega {
+  width: 100px;
+  height: 50px;
+  background-color: #ccc;
+  border-radius: 10px;
+  
+}
